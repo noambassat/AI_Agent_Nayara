@@ -76,13 +76,23 @@ This approach offered a simpler, more stable, and efficient solution suitable fo
 ## Output Example
 
 A final structured user profile is printed to the console. Sample output:
+
 Name: Sarah
+
 Age: 45
+
 Diagnosis: Triple-Negative breast cancer
+
 Stage: IIb
+
 Treatment_started: AC-T chemotherapy
+
 Upcoming_tests: Genetic testing and breast MRI
+
 How are you feeling about starting your ac-t chemotherapy and the upcoming genetic testing and breast mri?: Terrified
+
 As you prepare for the upcoming genetic testing and breast mri, is there anything specific you’re hoping to learn or understand better about your diagnosis?: No
+
 What are some ways you find comfort or strength when you're feeling overwhelmed during this journey?: Sport helps them find comfort and strength.
+
 How do you feel sport has helped you emotionally during this challenging time?: It clears my mind.
