@@ -73,9 +73,7 @@ This approach offered a simpler, more stable, and efficient solution suitable fo
 - LangChain (`ConversationBufferMemory`)
 - Google Colab (for execution and testing)
 
-## Output Example
-
-A final structured user profile is printed to the console. Sample output:
+## Output Example (Part 2):
 
 Name: Sarah
 
