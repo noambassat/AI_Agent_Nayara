@@ -60,6 +60,11 @@ This approach offered a simpler, more stable, and efficient solution suitable fo
 
 * **Monitoring and Control Layer**  
   Adding response logging, quality control, and issue tracking to support production deployment and reliability.
+  
+* **Dynamic Acknowledgment Responses**
+  Replacing the static "Thank you for sharing." with varied, context-aware acknowledgments based on the content or emotional tone of the user's answer.
+  This would improve conversational flow and make interactions feel more natural and emotionally attuned.
+
 
 ## Technologies Used
 
